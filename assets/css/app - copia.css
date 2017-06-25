@@ -4701,7 +4701,7 @@ body {
 blockquote {
   padding: 0 0 0 20px;
   margin: 10px 0;
-  border-left: 5px solid #FE7300;
+  border-left: 5px solid #B28973;
   font-family: 'robotolight_italic', sans-serif;
 }
 blockquote .author {
@@ -4709,19 +4709,19 @@ blockquote .author {
 }
 
 .button.button-primary {
-  border-color: #fe8e29;
-  color: #fe8e29;
+  border-color: #27ae60;
+  color: #27ae60;
 }
 .button.button-primary.active, .button.button-primary.button-fill, .button.button-primary.active-state {
-  background: #fe8e29;
+  background: #27ae60;
   color: #ffffff;
 }
 .button.button-secondary {
-  border-color: #FE7300;
-  color: #FE7300;
+  border-color: #B28973;
+  color: #B28973;
 }
 .button.button-secondary.active, .button.button-secondary.button-fill, .button.button-secondary.active-state {
-  background: #FE7300;
+  background: #B28973;
   color: #ffffff;
 }
 
@@ -4732,7 +4732,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-family: 'robotolight', sans-serif;
-  color: #FE7300;
+  color: #B28973;
 }
 
 h2 {
@@ -4765,12 +4765,12 @@ img {
 }
 
 .badge-primary {
-  background: #FE7300;
+  background: #B28973;
   color: #FFFFFF;
 }
 
 .badge-secondary {
-  background: #fe8e29;
+  background: #27ae60;
   color: #FFFFFF;
 }
 
@@ -4816,7 +4816,7 @@ header.small .row > div span {
 }
 
 .color-box {
-  background-color: #FE7300;
+  background-color: #B28973;
   color: #FFFFFF;
 }
 
@@ -4919,13 +4919,13 @@ html:not(.watch-active-state) .list-block .item-link:active {
 /*    5. HEADER/FOOTER/SIDEBAR                 */
 /* =========================================== */
 .navbar {
-  background: #FE7300;
+  background: #B28973;
   color: #FFFFFF;
   font-family: 'robotolight', sans-serif;
   text-transform: uppercase;
 }
 .navbar:after {
-  background: #FE7300;
+  background: #B28973;
 }
 .navbar .kkicon {
   font-size: 20px;
@@ -4942,7 +4942,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .navbar.navbar-clear {
   transition: all 400ms;
   background: transparent;
-  color: #FE7300;
+  color: #B28973;
 }
 .navbar.navbar-clear:after {
   background: transparent;
@@ -4951,14 +4951,14 @@ html:not(.watch-active-state) .list-block .item-link:active {
   font-size: 20px;
 }
 .navbar.navbar-clear a.link {
-  color: #FE7300;
+  color: #B28973;
 }
 .navbar.navbar-clear.active {
-  background: #FE7300;
+  background: #B28973;
   color: #FFFFFF;
 }
 .navbar.navbar-clear.active:after {
-  background: #FE7300;
+  background: #B28973;
 }
 .navbar.navbar-clear.active a.link {
   color: #FFFFFF;
@@ -5012,7 +5012,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   color: #FFFFFF;
 }
 .panel .list-block .list-group ul li .item-primary:hover {
-  background: #FE7300;
+  background: #B28973;
 }
 .panel .list-block .list-group ul li:after {
   background-color: #333333;
@@ -5071,7 +5071,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 /* =========================================== */
 [data-page="settings"] .item-media > span {
   font-size: 20px;
-  color: #FE7300;
+  color: #B28973;
 }
 
 .page-bg {
@@ -5096,7 +5096,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   margin-top: 50px;
 }
 .dashboard-menu .menu-link {
-  background: #FE7300;
+  background: #B28973;
   background: rgba(178, 137, 115, 0.5);
   position: relative;
   display: inline-block;
@@ -5106,7 +5106,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   box-shadow: 0 2px 1px -2px rgba(0, 0, 0, 0.3);
 }
 .dashboard-menu .menu-link:hover {
-  background: #FE7300;
+  background: #B28973;
   background: rgba(178, 137, 115, 0.2);
 }
 .dashboard-menu .menu-link > span:first-child {
@@ -5141,7 +5141,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .popup h2 {
   text-transform: uppercase;
   font-family: 'robotoblack', sans-serif;
-  color: #FE7300;
+  color: #B28973;
   font-size: 28px;
   margin-bottom: 5px;
   margin-top: 10px;
@@ -5157,7 +5157,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .popup .more-info {
   position: absolute;
   bottom: 20px;
-  color: #FE7300;
+  color: #B28973;
   text-align: center;
   width: 100%;
   margin-left: -20px;
@@ -5169,7 +5169,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .picker-modal .toolbar:before, .picker-modal .toolbar:after,
 .popup .toolbar:before,
 .popup .toolbar:after {
-  background: #FE7300;
+  background: #B28973;
   background: rgba(178, 137, 115, 0.9);
   content: '';
   position: absolute;
@@ -5191,7 +5191,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 }
 .picker-modal .toolbar a,
 .popup .toolbar a {
-  color: #FE7300;
+  color: #B28973;
   font-family: 'robotolight', sans-serif;
 }
 .picker-modal .close-popup,
@@ -5199,7 +5199,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   position: absolute;
   top: 15px;
   right: 15px;
-  color: #FE7300;
+  color: #B28973;
 }
 .picker-modal .close-popup > span,
 .popup .close-popup > span {
@@ -5229,14 +5229,14 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .popup .swiper-container .swiper-slide .button {
   color: #FFFFFF;
   border-color: #FFFFFF;
-  background: #FE7300;
+  background: #B28973;
   height: 44px;
   line-height: 44px;
 }
 .picker-modal .swiper-container .bottom-color,
 .popup .swiper-container .bottom-color {
   position: absolute;
-  background: #FE7300;
+  background: #B28973;
   top: 50%;
   left: 0;
   right: 0;
@@ -5527,10 +5527,10 @@ html:not(.watch-active-state) .list-block .item-link:active {
   padding: 0 15px;
 }
 .blog-box li .blog-list .text .title {
-  color: #FE7300;
+  color: #B28973;
 }
 .blog-box li .blog-list .text .title a {
-  color: #FE7300;
+  color: #B28973;
 }
 .blog-box li .blog-list .text small {
   font-size: 11px;
@@ -5579,7 +5579,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 }
 
 .social-buttons a {
-  color: #FE7300;
+  color: #B28973;
   font-size: 38px;
   margin-right: 10px;
 }
@@ -5595,7 +5595,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   top: 15px;
   left: 10px;
   content: "";
-  color: #FE7300;
+  color: #B28973;
   font-size: 20px;
   line-height: 1;
 }
@@ -5661,7 +5661,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 }
 
 .accordion-item.accordion-item-expanded .accordion-item-toggle {
-  background: #FE7300;
+  background: #B28973;
   color: #ffffff;
 }
 .accordion-item.accordion-item-expanded .accordion-item-content {
@@ -5669,7 +5669,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 }
 .accordion-item .accordion-item-toggle {
   padding: 5px 10px;
-  border: 1px solid #FE7300;
+  border: 1px solid #B28973;
   margin-top: -1px;
 }
 
@@ -5732,11 +5732,11 @@ html:not(.watch-active-state) .list-block .item-link:active {
   content: "\f099";
   top: 8px;
   left: 15px;
-  color: #FE7300;
+  color: #B28973;
   font-size: 22px;
 }
 .twitter-content ul li a {
-  color: #FE7300;
+  color: #B28973;
 }
 
 /* =========================================== */
@@ -5774,7 +5774,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   width: 100%;
 }
 .message.message-sent .message-text {
-  background-color: #FE7300;
+  background-color: #B28973;
 }
 .message .message-text {
   min-height: 32px;
@@ -5786,7 +5786,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   font-size: 15px;
 }
 .messagebar textarea + .link {
-  color: #FE7300;
+  color: #B28973;
   font-size: 18px;
 }
 
@@ -5811,11 +5811,11 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .login-view-box button.button-positive {
   background-color: white;
   border: none;
-  color: #FE7300;
+  color: #B28973;
   margin-top: 30px;
 }
 .login-view-box button.button-positive:hover {
-  background: #FE7300;
+  background: #B28973;
   color: #FFFFFF;
 }
 .login-view-box .login-view-box {
